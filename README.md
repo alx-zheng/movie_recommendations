@@ -1,7 +1,7 @@
 # Movie Recommendations: Non-convex optimization with sparse matrices
 
 This is a project exploring some basic algorithms to try and recover sparse matrices in order to make prediction on how users would rate movies.
-Included is a small [dataset](https://grouplens.org/datasets/movielens/).
+Included in the repository is a dataset(mat_comp_small) sourced and modified from [dataset](https://grouplens.org/datasets/movielens/). Below describe the input.
 
 Input. The input has two parts: 
 (1) the training data, consisting of k ratings across m movies and n users, and 
